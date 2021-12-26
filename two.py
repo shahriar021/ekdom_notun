@@ -1,9 +1,5 @@
-n = input()
-
-
-def m(n):
-    print(n)
-
-print("sakib ekti line add koreche")
-print("akib abaro line add korlo")
-m(n)
+def fnc_b(n):
+    i = n - 1
+    while i:
+        print(i - 1 + "<<<")
+    
