@@ -1,9 +1,4 @@
-n = input()
+def fun_a(n):
+    for i in range(0,n):
+        print(i)
 
-
-def m(n):
-    print(n)
-
-print("sakib ekti line add koreche")
-print("akib abaro line add korlo")
-m(n)
