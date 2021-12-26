@@ -3,3 +3,7 @@ def fnc_b(n):
     while i:
         print(i - 1 + "<<<")
     
+def fun_a(n):
+    for i in range(0,n):
+        print(i)
+
